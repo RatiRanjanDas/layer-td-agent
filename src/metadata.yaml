@@ -5,14 +5,14 @@ description: |
   connect to a variety of sources and stream data at scale to a central
   analytics system.
 maintainers:
-  - Matt Bruzek <matthew.bruzek@canonical.com>
-  - Chuck Butler <charles.butler@canonical.com>
+  - Omnivector Solutions <admin@omnivector.solutions>
 summary: |
   Logstash helps you process logs and other event data.
 tags:
   - elastic
   - logging
   - data-processing
+  - omnivector
 series:
   - xenial
   - bionic

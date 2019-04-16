@@ -7,4 +7,4 @@ includes:
 options:
   elastic-base:
     elastic-pkg: "logstash"
-repo: https://github.com/juju-solutions/layer-logstash
+repo: https://github.com/omnivector-solutions/layer-logstash
