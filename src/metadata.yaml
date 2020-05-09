@@ -14,12 +14,11 @@ tags:
   - data-processing
   - omnivector
 series:
-  - xenial
   - bionic
 subordinate: false
 provides:
   client:
-    interface: logstash-client
+    interface: td-agent-client
   beat:
     interface: elastic-beats
 requires:
