@@ -2,9 +2,9 @@ includes:
   - "layer:basic"
   - "layer:elastic-base"
   - "interface:elasticsearch"
-  - "interface:logstash-client"
+  - "interface:td-agent-client"
   - "interface:elastic-beats"
 options:
   elastic-base:
-    elastic-pkg: "logstash"
-repo: https://github.com/omnivector-solutions/layer-logstash
+    elastic-pkg: "td-agent"
+repo: https://github.com/RatiRanjanDas/layer-td-agent
